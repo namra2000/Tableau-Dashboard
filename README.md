@@ -23,5 +23,6 @@ Here is the Customer Analysis based on their purchase of category.
 5.Snapchat Ads Analysis 
 
 Here is the data of 2018 and 2019 of the newly launch of snapchat where it is not that must popular app across the world.
-![Dashboard 1](https://user-images.githubusercontent.com/65023775/189761445-002ec60c-11c2-4fa1-ae08-70a98074cd5d.png)
+![SnapChat Analysis](https://user-images.githubusercontent.com/65023775/189762106-04497de5-46da-4fa1-8536-ff2aaacb730a.png)
+
 
