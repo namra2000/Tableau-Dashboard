@@ -26,6 +26,7 @@ Here is the data of 2018 and 2019 of the newly launch of snapchat where it is no
 ![SnapChat Analysis](https://user-images.githubusercontent.com/65023775/189762106-04497de5-46da-4fa1-8536-ff2aaacb730a.png)
 
 6. Sales Performance Analysis 
+
 Here we analysis the order to be deliver in how many days and the profit and sales in different region.
 ![Dashboard 1](https://user-images.githubusercontent.com/65023775/193250732-20b08505-0563-45ba-8576-dda5b6fe8d0d.png)
 
